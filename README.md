@@ -1,4 +1,3 @@
-permalink: /index.html
 # <Bootcamp Prework Study Guide Webpage>
 
 ## Description
